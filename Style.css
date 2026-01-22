@@ -1,0 +1,18 @@
+body {
+  
+  background: black;
+  height: 100%;
+  width:150%;
+}
+.t{
+  font-size: 90px; 
+  font-family:'Narrow';
+  text-transform: uppercase;
+  background-image: url("");
+  background-position: center;
+  background-size:cover;
+  -webkit-background-clip: text;
+  background-clip: text;       
+  color:transparent;
+}
+
